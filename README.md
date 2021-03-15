@@ -1,22 +1,22 @@
 # Descartes-Underwritting-Technical-Test
  ### Table of Contents
 
-* [I. Exploratory Data Analysis](#I)
-    * [I.1. Data preparation](#I1)
-        * [a. Importation data](#I1a)
-        * [b. Remove dollars signs](#I1b)
-    * [I.2. Data visualisation](#I2)
-        * [a. Graphic target features](#I2a)
-        * [b. Graphic categorical features](#I2b)
-        * [c. Graphic numerical features](#I2c)
-    * [I.3. Data Preprocessing](#I3)
-        * [a. Undersampled data](#I3a)
-        * [b. Outliers treatment: sinus transformation](#I3b)
-        * [c. Impute missing values](#I3c)
-        * [d. Collinearity features](#I3d)
-* [II. Modelisation](#II)
-    * [II.1. Logistic Regression](#II1)
-    * [II.2. Random Forest](#II2)
-    * [II.3. Gradient Boosting](#II3)
-* [III. Tuning model with Gridsearch](#III)
-* [IV. Predictions](#III)
+* I. Exploratory Data Analysis
+    * I.1. Data preparation
+        * a. Importation data
+        * b. Remove dollars signs
+    * I.2. Data visualisation
+        * a. Graphic target features
+        * b. Graphic categorical features
+        * c. Graphic numerical features
+    * I.3. Data Preprocessing
+        * a. Undersampled data
+        * b. Outliers treatment: sinus transformation
+        * c. Impute missing values
+        * d. Collinearity features
+* II. Modelisation
+    * II.1. Logistic Regression
+    * II.2. Random Forest
+    * II.3. Gradient Boosting
+* III. Tuning model with Gridsearch
+* IV. Predictions

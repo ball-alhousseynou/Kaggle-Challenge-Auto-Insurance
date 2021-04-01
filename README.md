@@ -1,4 +1,4 @@
-# Challenge Kaggle 
+# Auto-Insurance (Kaggle Challenge)
  ### Table of Contents
 
 * I. Exploratory Data Analysis

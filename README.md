@@ -1,6 +1,6 @@
-# Descartes-Underwritting-Technical-Test
+# Kaggle-Challenge-Auto-Insurance (Kaggle Challenge)
+ 
  ### Table of Contents
-
 * I. Exploratory Data Analysis
     * I.1. Data preparation
         * a. Importation data
